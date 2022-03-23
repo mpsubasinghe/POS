@@ -42,20 +42,25 @@ namespace POS
             IInvoicedProduct ip = null;
             for (int rows = 0; rows < dataGridInvoicedProduct.Rows.Count; rows++)
             {
-                if (dataGridInvoicedProduct.Rows[rows].Cells[5].Value != "" && Convert.ToDouble(dataGridInvoicedProduct.Rows[rows].Cells[7].Value)>0)
-                { 
+               
                 
                     ip = FactoryML<IInvoicedProduct>.Create<IInvoicedProduct>("InvoicedProductDisDefault");
                 ip.ProductFullcode = dataGridInvoicedProduct.Rows[rows].Cells[1].Value.ToString();
                 ip.MRP = Convert.ToDouble(dataGridInvoicedProduct.Rows[rows].Cells[3].Value);
                 ip.SPrice = Convert.ToDouble(dataGridInvoicedProduct.Rows[rows].Cells[4].Value);
-                ip.Qty = Convert.ToDouble(dataGridInvoicedProduct.Rows[rows].Cells[7].Value);
-
+                if (dataGridInvoicedProduct.Rows[rows].Cells[7].Value != "" && Convert.ToDouble(dataGridInvoicedProduct.Rows[rows].Cells[7].Value) > 0)
+                {
+                    ip.Qty = Convert.ToDouble(dataGridInvoicedProduct.Rows[rows].Cells[7].Value);
+                }
+                else
+                {
+                    ip.Qty = 0;
+                }
                 ip.Validation();
 
                 invlist.Add(ip);
+
                 
-                }
                 
                 //for (int col = 0; col < dataGridInvoicedProduct.Rows[rows].Cells.Count; col++)
                 //{
