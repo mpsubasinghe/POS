@@ -1,0 +1,4 @@
+D:\My_Private_Project\POS\UniCode\bin\Debug\UniCode.dll
+D:\My_Private_Project\POS\UniCode\bin\Debug\UniCode.pdb
+D:\My_Private_Project\POS\UniCode\obj\Debug\UniCode.dll
+D:\My_Private_Project\POS\UniCode\obj\Debug\UniCode.pdb

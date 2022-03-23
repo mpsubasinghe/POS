@@ -1,0 +1,17 @@
+D:\My_Private_Project\POS\FactoryMiddleLayer\bin\Debug\FactoryMiddleLayer.dll
+D:\My_Private_Project\POS\FactoryMiddleLayer\bin\Debug\FactoryMiddleLayer.pdb
+D:\My_Private_Project\POS\FactoryMiddleLayer\bin\Debug\I_MiddleLayer.dll
+D:\My_Private_Project\POS\FactoryMiddleLayer\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\My_Private_Project\POS\FactoryMiddleLayer\bin\Debug\Microsoft.Practices.Unity.dll
+D:\My_Private_Project\POS\FactoryMiddleLayer\bin\Debug\MiddleLayer.dll
+D:\My_Private_Project\POS\FactoryMiddleLayer\bin\Debug\ValidationAlgorithem.dll
+D:\My_Private_Project\POS\FactoryMiddleLayer\bin\Debug\FactoryVal.dll
+D:\My_Private_Project\POS\FactoryMiddleLayer\bin\Debug\I_MiddleLayer.pdb
+D:\My_Private_Project\POS\FactoryMiddleLayer\bin\Debug\MiddleLayer.pdb
+D:\My_Private_Project\POS\FactoryMiddleLayer\bin\Debug\ValidationAlgorithem.pdb
+D:\My_Private_Project\POS\FactoryMiddleLayer\bin\Debug\Microsoft.Practices.Unity.xml
+D:\My_Private_Project\POS\FactoryMiddleLayer\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\My_Private_Project\POS\FactoryMiddleLayer\bin\Debug\FactoryVal.pdb
+D:\My_Private_Project\POS\FactoryMiddleLayer\obj\Debug\FactoryMiddleLayer.csprojResolveAssemblyReference.cache
+D:\My_Private_Project\POS\FactoryMiddleLayer\obj\Debug\FactoryMiddleLayer.dll
+D:\My_Private_Project\POS\FactoryMiddleLayer\obj\Debug\FactoryMiddleLayer.pdb

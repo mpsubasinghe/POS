@@ -1,0 +1,4 @@
+D:\My_Private_Project\POS\I_MiddleLayer\bin\Debug\I_MiddleLayer.dll
+D:\My_Private_Project\POS\I_MiddleLayer\bin\Debug\I_MiddleLayer.pdb
+D:\My_Private_Project\POS\I_MiddleLayer\obj\Debug\I_MiddleLayer.dll
+D:\My_Private_Project\POS\I_MiddleLayer\obj\Debug\I_MiddleLayer.pdb

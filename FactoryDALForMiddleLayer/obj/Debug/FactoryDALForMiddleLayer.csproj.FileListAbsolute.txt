@@ -1,0 +1,17 @@
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\obj\Debug\FactoryDALForMiddleLayer.csprojResolveAssemblyReference.cache
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\bin\Debug\FactoryDALForMiddleLayer.dll
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\bin\Debug\FactoryDALForMiddleLayer.pdb
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\bin\Debug\DAL.dll
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\bin\Debug\I_DAL.dll
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\bin\Debug\I_MiddleLayer.dll
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\bin\Debug\FactoryMiddleLayer.dll
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\bin\Debug\MiddleLayer.dll
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\bin\Debug\ValidationAlgorithem.dll
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\bin\Debug\DAL.pdb
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\bin\Debug\I_DAL.pdb
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\bin\Debug\I_MiddleLayer.pdb
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\bin\Debug\FactoryMiddleLayer.pdb
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\bin\Debug\MiddleLayer.pdb
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\bin\Debug\ValidationAlgorithem.pdb
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\obj\Debug\FactoryDALForMiddleLayer.dll
+D:\My_Private_Project\POS\FactoryDALForMiddleLayer\obj\Debug\FactoryDALForMiddleLayer.pdb

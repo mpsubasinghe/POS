@@ -1,0 +1,11 @@
+D:\My_Private_Project\POS\MiddleLayer\bin\Debug\MiddleLayer.dll
+D:\My_Private_Project\POS\MiddleLayer\bin\Debug\MiddleLayer.pdb
+D:\My_Private_Project\POS\MiddleLayer\bin\Debug\FactoryVal.dll
+D:\My_Private_Project\POS\MiddleLayer\bin\Debug\I_MiddleLayer.dll
+D:\My_Private_Project\POS\MiddleLayer\bin\Debug\ValidationAlgorithem.dll
+D:\My_Private_Project\POS\MiddleLayer\bin\Debug\FactoryVal.pdb
+D:\My_Private_Project\POS\MiddleLayer\bin\Debug\I_MiddleLayer.pdb
+D:\My_Private_Project\POS\MiddleLayer\bin\Debug\ValidationAlgorithem.pdb
+D:\My_Private_Project\POS\MiddleLayer\obj\Debug\MiddleLayer.csprojResolveAssemblyReference.cache
+D:\My_Private_Project\POS\MiddleLayer\obj\Debug\MiddleLayer.dll
+D:\My_Private_Project\POS\MiddleLayer\obj\Debug\MiddleLayer.pdb

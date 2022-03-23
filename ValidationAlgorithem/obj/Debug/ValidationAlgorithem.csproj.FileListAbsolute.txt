@@ -1,0 +1,9 @@
+D:\My_Private_Project\POS\ValidationAlgorithem\bin\Debug\ValidationAlgorithem.dll
+D:\My_Private_Project\POS\ValidationAlgorithem\bin\Debug\ValidationAlgorithem.pdb
+D:\My_Private_Project\POS\ValidationAlgorithem\bin\Debug\I_DAL.dll
+D:\My_Private_Project\POS\ValidationAlgorithem\bin\Debug\I_MiddleLayer.dll
+D:\My_Private_Project\POS\ValidationAlgorithem\bin\Debug\I_DAL.pdb
+D:\My_Private_Project\POS\ValidationAlgorithem\bin\Debug\I_MiddleLayer.pdb
+D:\My_Private_Project\POS\ValidationAlgorithem\obj\Debug\ValidationAlgorithem.csprojResolveAssemblyReference.cache
+D:\My_Private_Project\POS\ValidationAlgorithem\obj\Debug\ValidationAlgorithem.dll
+D:\My_Private_Project\POS\ValidationAlgorithem\obj\Debug\ValidationAlgorithem.pdb

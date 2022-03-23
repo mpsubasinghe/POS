@@ -1,0 +1,9 @@
+D:\My_Private_Project\POS\FactoryVal\bin\Debug\FactoryVal.dll
+D:\My_Private_Project\POS\FactoryVal\bin\Debug\FactoryVal.pdb
+D:\My_Private_Project\POS\FactoryVal\bin\Debug\ValidationAlgorithem.dll
+D:\My_Private_Project\POS\FactoryVal\bin\Debug\I_MiddleLayer.dll
+D:\My_Private_Project\POS\FactoryVal\bin\Debug\ValidationAlgorithem.pdb
+D:\My_Private_Project\POS\FactoryVal\bin\Debug\I_MiddleLayer.pdb
+D:\My_Private_Project\POS\FactoryVal\obj\Debug\FactoryVal.csprojResolveAssemblyReference.cache
+D:\My_Private_Project\POS\FactoryVal\obj\Debug\FactoryVal.dll
+D:\My_Private_Project\POS\FactoryVal\obj\Debug\FactoryVal.pdb

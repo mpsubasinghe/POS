@@ -1,0 +1,17 @@
+D:\My_Private_Project\POS\DAL\bin\Debug\DAL.dll
+D:\My_Private_Project\POS\DAL\bin\Debug\DAL.pdb
+D:\My_Private_Project\POS\DAL\bin\Debug\FactoryMiddleLayer.dll
+D:\My_Private_Project\POS\DAL\bin\Debug\I_DAL.dll
+D:\My_Private_Project\POS\DAL\bin\Debug\I_MiddleLayer.dll
+D:\My_Private_Project\POS\DAL\bin\Debug\MiddleLayer.dll
+D:\My_Private_Project\POS\DAL\bin\Debug\ValidationAlgorithem.dll
+D:\My_Private_Project\POS\DAL\bin\Debug\FactoryVal.dll
+D:\My_Private_Project\POS\DAL\bin\Debug\FactoryMiddleLayer.pdb
+D:\My_Private_Project\POS\DAL\bin\Debug\I_DAL.pdb
+D:\My_Private_Project\POS\DAL\bin\Debug\I_MiddleLayer.pdb
+D:\My_Private_Project\POS\DAL\bin\Debug\MiddleLayer.pdb
+D:\My_Private_Project\POS\DAL\bin\Debug\ValidationAlgorithem.pdb
+D:\My_Private_Project\POS\DAL\bin\Debug\FactoryVal.pdb
+D:\My_Private_Project\POS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\My_Private_Project\POS\DAL\obj\Debug\DAL.dll
+D:\My_Private_Project\POS\DAL\obj\Debug\DAL.pdb

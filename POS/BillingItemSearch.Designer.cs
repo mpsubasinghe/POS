@@ -1,0 +1,183 @@
+﻿namespace POS
+{
+    partial class BillingItemSearch
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(BillingItemSearch));
+            this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
+            this.dataGridSearchProduct = new System.Windows.Forms.DataGridView();
+            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.simpleButtondeleterpt = new DevExpress.XtraEditors.SimpleButton();
+            this.simpleButtonAdd = new DevExpress.XtraEditors.SimpleButton();
+            this.textBox_ItemName = new System.Windows.Forms.TextBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
+            this.groupControl1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridSearchProduct)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // groupControl1
+            // 
+            this.groupControl1.Controls.Add(this.dataGridSearchProduct);
+            this.groupControl1.Controls.Add(this.simpleButtondeleterpt);
+            this.groupControl1.Controls.Add(this.simpleButtonAdd);
+            this.groupControl1.Controls.Add(this.textBox_ItemName);
+            this.groupControl1.Controls.Add(this.label9);
+            this.groupControl1.Controls.Add(this.label3);
+            this.groupControl1.Location = new System.Drawing.Point(2, 1);
+            this.groupControl1.Name = "groupControl1";
+            this.groupControl1.Size = new System.Drawing.Size(728, 460);
+            this.groupControl1.TabIndex = 2;
+            this.groupControl1.Text = "Item Price and  Discount";
+            // 
+            // dataGridSearchProduct
+            // 
+            this.dataGridSearchProduct.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridSearchProduct.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.Column4,
+            this.Column1,
+            this.Column2,
+            this.Column3});
+            this.dataGridSearchProduct.Location = new System.Drawing.Point(19, 104);
+            this.dataGridSearchProduct.Name = "dataGridSearchProduct";
+            this.dataGridSearchProduct.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dataGridSearchProduct.Size = new System.Drawing.Size(693, 347);
+            this.dataGridSearchProduct.TabIndex = 118;
+            this.dataGridSearchProduct.KeyDown += new System.Windows.Forms.KeyEventHandler(this.dataGridSearchProduct_KeyDown);
+            // 
+            // Column4
+            // 
+            this.Column4.HeaderText = "No:";
+            this.Column4.Name = "Column4";
+            this.Column4.Width = 50;
+            // 
+            // Column1
+            // 
+            this.Column1.HeaderText = "Product ID";
+            this.Column1.Name = "Column1";
+            // 
+            // Column2
+            // 
+            this.Column2.HeaderText = "UPC ";
+            this.Column2.Name = "Column2";
+            // 
+            // Column3
+            // 
+            this.Column3.HeaderText = "Product Name";
+            this.Column3.Name = "Column3";
+            this.Column3.Width = 400;
+            // 
+            // simpleButtondeleterpt
+            // 
+            this.simpleButtondeleterpt.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Office2003;
+            this.simpleButtondeleterpt.Image = ((System.Drawing.Image)(resources.GetObject("simpleButtondeleterpt.Image")));
+            this.simpleButtondeleterpt.Location = new System.Drawing.Point(491, 37);
+            this.simpleButtondeleterpt.Name = "simpleButtondeleterpt";
+            this.simpleButtondeleterpt.Size = new System.Drawing.Size(81, 35);
+            this.simpleButtondeleterpt.TabIndex = 117;
+            this.simpleButtondeleterpt.Text = "Cancel";
+            // 
+            // simpleButtonAdd
+            // 
+            this.simpleButtonAdd.ButtonStyle = DevExpress.XtraEditors.Controls.BorderStyles.Office2003;
+            this.simpleButtonAdd.Image = ((System.Drawing.Image)(resources.GetObject("simpleButtonAdd.Image")));
+            this.simpleButtonAdd.Location = new System.Drawing.Point(389, 37);
+            this.simpleButtonAdd.Name = "simpleButtonAdd";
+            this.simpleButtonAdd.Size = new System.Drawing.Size(81, 35);
+            this.simpleButtonAdd.TabIndex = 116;
+            this.simpleButtonAdd.Text = "Search";
+            this.simpleButtonAdd.Click += new System.EventHandler(this.simpleButtonAdd_Click);
+            // 
+            // textBox_ItemName
+            // 
+            this.textBox_ItemName.Font = new System.Drawing.Font("Tahoma", 9F);
+            this.textBox_ItemName.Location = new System.Drawing.Point(37, 50);
+            this.textBox_ItemName.Name = "textBox_ItemName";
+            this.textBox_ItemName.Size = new System.Drawing.Size(333, 22);
+            this.textBox_ItemName.TabIndex = 115;
+            this.textBox_ItemName.TextChanged += new System.EventHandler(this.textBox_ItemName_TextChanged);
+            this.textBox_ItemName.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox_ItemName_KeyPress);
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Tahoma", 9F);
+            this.label9.Location = new System.Drawing.Point(34, 33);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(68, 14);
+            this.label9.TabIndex = 114;
+            this.label9.Text = "Item Name";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Tahoma", 9F);
+            this.label3.Location = new System.Drawing.Point(34, 87);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(54, 14);
+            this.label3.TabIndex = 102;
+            this.label3.Text = "Quantity";
+            // 
+            // BillingItemSearch
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(734, 464);
+            this.Controls.Add(this.groupControl1);
+            this.Name = "BillingItemSearch";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "BillingItemSearch";
+            this.Load += new System.EventHandler(this.BillingItemSearch_Load);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.BillingItemSearch_KeyDown);
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
+            this.groupControl1.ResumeLayout(false);
+            this.groupControl1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridSearchProduct)).EndInit();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private DevExpress.XtraEditors.GroupControl groupControl1;
+        private System.Windows.Forms.DataGridView dataGridSearchProduct;
+        private DevExpress.XtraEditors.SimpleButton simpleButtondeleterpt;
+        private DevExpress.XtraEditors.SimpleButton simpleButtonAdd;
+        private System.Windows.Forms.TextBox textBox_ItemName;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
+    }
+}
